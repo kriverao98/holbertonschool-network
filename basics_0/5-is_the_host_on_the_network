@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # This script will ping an IP address 5 times
 # Check if no argument is passed
 if [ $# -eq 0 ]; then
