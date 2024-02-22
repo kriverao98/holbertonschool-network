@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# This script will display the TCP and UDP ports that are open on the system
+netstat -l -p
